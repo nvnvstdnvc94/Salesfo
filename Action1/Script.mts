@@ -3,7 +3,7 @@
 
 Dim email, password
 email="nikola.ilic@q-sit.de"
-password="nikolailic2027"
+password="nikolailic2028"
  @@ script infofile_;_ZIP::ssf1.xml_;_
 SystemUtil.Run "msedge", "https://login.salesforce.com"
 Browser("Login | Salesforce").Page("Login | Salesforce").WebEdit("username").Set email @@ script infofile_;_ZIP::ssf14.xml_;_
